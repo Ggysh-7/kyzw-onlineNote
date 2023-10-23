@@ -4,4 +4,4 @@
 * 后端数据接口：Express、MongoDB
 
 [GitHub](https://github.com/Ggysh-7/kyzw-onlineNote)
-[Get Started](preface)
+[Get Started]()
