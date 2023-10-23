@@ -4,6 +4,10 @@
 
 ## 在线笔记DOCS_README
 
+上传代码会更新hub或者ee文档，
+
+更新有延迟！！！
+
 我是MarkDown ~
 
 我是MarkDown start
